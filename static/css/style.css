@@ -1,3 +1,13 @@
+.contact-input {
+    margin-left: 135px;
+    border: 2px solid #681515;
+    border-radius: 25px;
+    background: transparent;
+    padding: 15px 10px;
+    width: 1275px;
+    
+}
+
 .button {
     background: #681515;
     color: white;
